@@ -12,3 +12,10 @@ C:\Users\Cintia\1-ADS\Prof Marco Aurélio - ED II\projTransporte-master\projTran
 C:\Users\Cintia\1-ADS\Prof Marco Aurélio - ED II\projTransporte-master\projTransporte\obj\Debug\projTransporte.csproj.CoreCompileInputs.cache
 C:\Users\Cintia\1-ADS\Prof Marco Aurélio - ED II\projTransporte-master\projTransporte\obj\Debug\projTransporte.exe
 C:\Users\Cintia\1-ADS\Prof Marco Aurélio - ED II\projTransporte-master\projTransporte\obj\Debug\projTransporte.pdb
+C:\Users\Cintia\Padrões do PC\Documents\1-ADS\Prof Marco Aurélio - ED II\projTransporte-master\projTransporte\bin\Debug\projTransporte.exe.config
+C:\Users\Cintia\Padrões do PC\Documents\1-ADS\Prof Marco Aurélio - ED II\projTransporte-master\projTransporte\bin\Debug\projTransporte.exe
+C:\Users\Cintia\Padrões do PC\Documents\1-ADS\Prof Marco Aurélio - ED II\projTransporte-master\projTransporte\bin\Debug\projTransporte.pdb
+C:\Users\Cintia\Padrões do PC\Documents\1-ADS\Prof Marco Aurélio - ED II\projTransporte-master\projTransporte\obj\Debug\projTransporte.csprojAssemblyReference.cache
+C:\Users\Cintia\Padrões do PC\Documents\1-ADS\Prof Marco Aurélio - ED II\projTransporte-master\projTransporte\obj\Debug\projTransporte.csproj.CoreCompileInputs.cache
+C:\Users\Cintia\Padrões do PC\Documents\1-ADS\Prof Marco Aurélio - ED II\projTransporte-master\projTransporte\obj\Debug\projTransporte.exe
+C:\Users\Cintia\Padrões do PC\Documents\1-ADS\Prof Marco Aurélio - ED II\projTransporte-master\projTransporte\obj\Debug\projTransporte.pdb
